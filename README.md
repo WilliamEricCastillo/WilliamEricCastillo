@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm William
 
+- 🔭 I’m currently working on my **Personal Website**
+- 🌱 I’m currently learning **Restful API**
+- 🤔 I’m looking for help with **Interactive Web Design**
+- 📫 How to reach me: WilliamECastillo@gmail.com
+- 😄 Pronouns: **He/Him**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williamecastillo) 

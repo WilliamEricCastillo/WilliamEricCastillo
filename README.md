@@ -6,6 +6,8 @@
 - 📫 How to reach me: WilliamECastillo@gmail.com
 - 😄 Pronouns: **He/Him**
 
+#### Notes
+- Some repositories have been uploaded as files because they were not initially set up with an external repository, as not all undergrad courses required GitHub repositories.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williamecastillo) 

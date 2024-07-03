@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm William
 
-- 🔭 I’m currently working on my [**Movie Genre Classifier**](https://github.com/WilliamEricCastillo/MovieGenreClassifier)
-- 🌱 I’m currently learning **Machine Learning**
-- 🤔 I’m looking for help with **Interactive Web Design**
+- 🔭 I’m currently working on my [**React Native Cranium Conscious**](https://github.com/WilliamEricCastillo/ReactNativeCraniumConscious)
+- 🌱 I’m currently learning **React Native**
+- 🤔 I’m looking for help with **Adding Charts to React Native Application**
 - 📫 How to reach me: WilliamECastillo@gmail.com
 - 😄 Pronouns: **He/Him**
 
